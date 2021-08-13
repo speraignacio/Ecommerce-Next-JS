@@ -14,7 +14,6 @@ export default function TopBar() {
                     </Grid.Column>
                 </Grid>
             </Container>
-            <h1>TopBar...</h1>
         </div>
     )
 }
